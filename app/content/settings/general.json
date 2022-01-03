@@ -1,7 +1,7 @@
 {
-  "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "title": "Vakum Poşeti Çeşitleri",
+  "titleTemplate": "| Vakum Poşeti Fiyatları",
+  "welcomeText": "# Yo, I'm [Eambalaj](https://eambalaj.com.tr)\n\n<!--StartFragment-->\n\nGıda ürünleri hava ile temas ettikçe oksitlenir ve daha çabuk bozulurlar. Bozulan bir ürün renginden, kokusundan ve ya dokusundan farkedilebilir. Gıda ürünlerinin tazeliğini ve içeriğindeki vitamin, protein, mineral gibi besin değerlerini uzun süre koruyabilmesi için vakumlanarak saklanması gerekir. **[Vakum poşeti](https://eambalaj.com.tr/urun-kategori/vakum-poseti/)** sayesinde et ve balık ürünleri, süt ürünleri, kuruyemişler, bakliyat ve baharat gibi ürünler vakumlanarak ilk günkü tazeliğini koruması sağlanır. Vakumlanarak saklanan ürünler daha sağlıklıdır ve besin değeri yüksektir.\\\n\\\nHer ihtiyaca uygun ebatlarda **en ucuz fiyata** vakum poşetini hemen satın alabilirsiniz. Tüm vakum poşeti ürünlerimiz gıdaya uygunluk sertifikasına sahiptir ve **sous vide** pişirme yönteminde de kullanılabilir.\\\n\\\nE Ambalaj, ev tipi vakum makinelerinden fabrika tipi vakum makinelerine kadar her marka ve modelde makine için vakum poşeti üretir. Stilea, Arzum, Onurtech gibi markaların ürettiği makinelerin vakum poşeti de mevcuttur. Tırtıklı yani **gofrajlı vakum torbası** ev tipi dıştan takmalı vakum makinelerinde kullanılır. Düz tip olan vakum poşetlerimiz ise sanayi tipi büyük vakum makinelerine uygundur.\n\n<!--EndFragment-->",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
